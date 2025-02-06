@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <section>
-      <h1>John Roy Ducut</h1>
+      <h1 style={{color: 'black'}}>John Roy Ducut</h1>
       <Container />
     </section>
   );
